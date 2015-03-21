@@ -13,7 +13,7 @@ When you are browsing a project in GitHub,
 
 ---
 
-instead of the raw IPython notebook file
+when you request the IPython notebook file, instead of the raw file
 
 ![](img/before.png)
 
