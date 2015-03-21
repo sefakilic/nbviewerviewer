@@ -7,8 +7,14 @@ than raw format what GitHub does.
 
 ## Example
 
-When you browse a project in GitHub,
+When you are browsing a project in GitHub,
 
 ![](img/main.png)
 
+instead of the raw IPython notebook file
 
+![](img/before.png)
+
+you would see this
+
+![](img/after.png)
