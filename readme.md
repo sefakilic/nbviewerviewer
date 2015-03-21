@@ -9,6 +9,6 @@ than raw format what GitHub does.
 
 When you browse a project in GitHub,
 
-![img/main.png]()]]
+![](img/main.png)
 
 
