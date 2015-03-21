@@ -1,7 +1,7 @@
 # nbviewerviewer
 
 A Google Chrome extension to view IPython notebooks from GitHub. When browsed a
-IPython notebook file (files ending with `.ipynb`), this extension
+IPython notebook file (i.e., files ending with `.ipynb`), this extension
 redirects you to [nbviewer.ipython.org] to view the notebook properly, rather
 than raw format what GitHub does.
 
