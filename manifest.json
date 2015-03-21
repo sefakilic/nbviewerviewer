@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "IPython notebook viewer",
+    "description": "This extension allows you to view IPython notebook files
+    (with .ipynb extension) within Github",
+    "version": "1.0",
+
+    "content_scripts": [
+        {
+            "matches": ["*://github.com/*.ipynb"],
+            "css": [],
+            "js": ["content_script.js"]
+        }
+    ],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "permissions": [
+        "webNavigation", "*://github.com/*.ipynb"
+    ]
+}
