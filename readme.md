@@ -11,9 +11,13 @@ When you are browsing a project in GitHub,
 
 ![](img/main.png)
 
+---
+
 instead of the raw IPython notebook file
 
 ![](img/before.png)
+
+---
 
 you would see this
 
